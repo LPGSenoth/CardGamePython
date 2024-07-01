@@ -1,3 +1,5 @@
+from JeuDeCarte import JeuDeCartes
+import Jeu
 
 
 class Personne :
@@ -25,6 +27,8 @@ class Arbitre(Personne):
 
 
     def donne_cartes_melangees_joueur(self,Joueur):
+        Joueur.cartes = JeuDeCartes()
+        return Joueur.cartes
 
         
 
@@ -34,3 +38,4 @@ dodo = Arbitre('dodo')
 
 print(toto)
 print(dodo)
+print(dodo.donne_cartes_melangees_joueur(toto))
