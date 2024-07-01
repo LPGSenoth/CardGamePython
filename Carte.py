@@ -2,7 +2,7 @@ class Carte:
     def __init__(self, valeur, couleur):
         self.couleur = couleur
         self.valeur = valeur
-        self.card_values = {"7": 7, "8": 8, "9": 9,"10": 10, "V": 11, "R": 12, "AS": 13}
+        self.card_values = {"7": 7, "8": 8, "9": 9,"10": 10, "V": 11, "D": 12, "R": 13, "AS": 14}
         self.card_colors = {"Coeur": 4, "Pique": 3, "Carreau": 2, "Trefle": 1}
     
     def __str__(self):
