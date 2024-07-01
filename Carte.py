@@ -14,9 +14,3 @@ class Carte:
     def __gt__(self, o_card: object) -> bool:
         return (False if (self == o_card) else (True if (self.valeur == o_card.valeur and self.card_colors[self.couleur] > o_card.card_colors[o_card.couleur]) else (True if self.card_values[self.valeur] > self.card_values[o_card.valeur] else False)))
     
-t = Carte("AS", "Trefle")
-print(t)
-t2 = Carte("R", "Trefle")
-print(t2)
-print(t == t2)
-print(t > t2)
