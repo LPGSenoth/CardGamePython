@@ -28,14 +28,7 @@ class Arbitre(Personne):
 
     def donne_cartes_melangees_joueur(self,Joueur):
         Joueur.cartes = JeuDeCartes()
+        Joueur.cartes.shuffling()
         return Joueur.cartes
 
         
-
-
-toto = Joueur('toto')
-dodo = Arbitre('dodo')
-
-print(toto)
-print(dodo)
-print(dodo.donne_cartes_melangees_joueur(toto))
