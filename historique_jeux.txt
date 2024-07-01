@@ -1,0 +1,104 @@
+partie 1 : toto a eu 15 points, titi a eu 12 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 2 : toto a eu 13 points, titi a eu 16 points, donald a eu 15 points, le vainqueur est titi
+partie 3 : toto a eu 10 points, titi a eu 12 points, donald a eu 50 points, le vainqueur est l'arbitre s'appelle donald
+partie 4 : toto a eu 13 points, titi a eu 16 points, donald a eu 15 points, le vainqueur est titi
+partie 5 : toto a eu 13 points, titi a eu 17 points, donald a eu 10 points, le vainqueur est titi
+partie 6 : toto a eu 15 points, titi a eu 13 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 7 : toto a eu 15 points, titi a eu 15 points, donald a eu 10 points, le vainqueur est l'arbitre s'appelle donald
+partie 8 : toto a eu 16 points, titi a eu 11 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 9 : toto a eu 15 points, titi a eu 13 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 10 : toto a eu 13 points, titi a eu 13 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 11 : toto a eu 17 points, titi a eu 13 points, donald a eu 10 points, le vainqueur est toto
+partie 12 : toto a eu 13 points, titi a eu 12 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 13 : toto a eu 16 points, titi a eu 13 points, donald a eu 15 points, le vainqueur est toto
+partie 14 : toto a eu 13 points, titi a eu 14 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 15 : toto a eu 14 points, titi a eu 13 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 16 : toto a eu 13 points, titi a eu 13 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 17 : toto a eu 11 points, titi a eu 17 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 18 : toto a eu 11 points, titi a eu 13 points, donald a eu 40 points, le vainqueur est l'arbitre s'appelle donald
+partie 19 : toto a eu 15 points, titi a eu 14 points, donald a eu 15 points, le vainqueur est toto
+partie 20 : toto a eu 16 points, titi a eu 11 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 21 : toto a eu 14 points, titi a eu 13 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 22 : toto a eu 16 points, titi a eu 12 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 23 : toto a eu 13 points, titi a eu 13 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 24 : toto a eu 11 points, titi a eu 19 points, donald a eu 10 points, le vainqueur est titi
+partie 25 : toto a eu 15 points, titi a eu 14 points, donald a eu 15 points, le vainqueur est toto
+partie 26 : toto a eu 13 points, titi a eu 13 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 27 : toto a eu 13 points, titi a eu 16 points, donald a eu 15 points, le vainqueur est titi
+partie 28 : toto a eu 12 points, titi a eu 16 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 29 : toto a eu 14 points, titi a eu 13 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 30 : toto a eu 16 points, titi a eu 13 points, donald a eu 15 points, le vainqueur est toto
+partie 31 : toto a eu 14 points, titi a eu 16 points, donald a eu 10 points, le vainqueur est titi
+partie 32 : toto a eu 15 points, titi a eu 11 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 33 : toto a eu 12 points, titi a eu 14 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 34 : toto a eu 15 points, titi a eu 15 points, donald a eu 10 points, le vainqueur est l'arbitre s'appelle donald
+partie 35 : toto a eu 12 points, titi a eu 16 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 36 : toto a eu 12 points, titi a eu 13 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 37 : toto a eu 12 points, titi a eu 16 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 38 : toto a eu 15 points, titi a eu 12 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 39 : toto a eu 15 points, titi a eu 15 points, donald a eu 10 points, le vainqueur est l'arbitre s'appelle donald
+partie 40 : toto a eu 13 points, titi a eu 16 points, donald a eu 15 points, le vainqueur est titi
+partie 41 : toto a eu 14 points, titi a eu 14 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 42 : toto a eu 14 points, titi a eu 13 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 43 : toto a eu 13 points, titi a eu 13 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 44 : toto a eu 14 points, titi a eu 13 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 45 : toto a eu 16 points, titi a eu 13 points, donald a eu 15 points, le vainqueur est toto
+partie 46 : toto a eu 14 points, titi a eu 14 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 47 : toto a eu 10 points, titi a eu 14 points, donald a eu 40 points, le vainqueur est l'arbitre s'appelle donald
+partie 48 : toto a eu 13 points, titi a eu 17 points, donald a eu 10 points, le vainqueur est titi
+partie 49 : toto a eu 12 points, titi a eu 15 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 50 : toto a eu 16 points, titi a eu 14 points, donald a eu 10 points, le vainqueur est toto
+partie 51 : toto a eu 12 points, titi a eu 15 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 52 : toto a eu 14 points, titi a eu 14 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 53 : toto a eu 16 points, titi a eu 15 points, donald a eu 5 points, le vainqueur est toto
+partie 54 : toto a eu 15 points, titi a eu 14 points, donald a eu 15 points, le vainqueur est toto
+partie 55 : toto a eu 16 points, titi a eu 13 points, donald a eu 15 points, le vainqueur est toto
+partie 56 : toto a eu 11 points, titi a eu 14 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 57 : toto a eu 14 points, titi a eu 14 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 58 : toto a eu 11 points, titi a eu 14 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 59 : toto a eu 14 points, titi a eu 16 points, donald a eu 10 points, le vainqueur est titi
+partie 60 : toto a eu 12 points, titi a eu 16 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 61 : toto a eu 11 points, titi a eu 14 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 62 : toto a eu 16 points, titi a eu 12 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 63 : toto a eu 14 points, titi a eu 11 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 64 : toto a eu 16 points, titi a eu 13 points, donald a eu 15 points, le vainqueur est toto
+partie 65 : toto a eu 12 points, titi a eu 16 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 66 : toto a eu 17 points, titi a eu 13 points, donald a eu 10 points, le vainqueur est toto
+partie 67 : toto a eu 11 points, titi a eu 14 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 68 : toto a eu 13 points, titi a eu 15 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 69 : toto a eu 12 points, titi a eu 15 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 70 : toto a eu 14 points, titi a eu 12 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 71 : toto a eu 15 points, titi a eu 14 points, donald a eu 15 points, le vainqueur est toto
+partie 72 : toto a eu 12 points, titi a eu 12 points, donald a eu 40 points, le vainqueur est l'arbitre s'appelle donald
+partie 73 : toto a eu 14 points, titi a eu 15 points, donald a eu 15 points, le vainqueur est titi
+partie 74 : toto a eu 13 points, titi a eu 13 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 75 : toto a eu 13 points, titi a eu 15 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 76 : toto a eu 13 points, titi a eu 15 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 77 : toto a eu 12 points, titi a eu 14 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 78 : toto a eu 14 points, titi a eu 15 points, donald a eu 15 points, le vainqueur est titi
+partie 79 : toto a eu 15 points, titi a eu 14 points, donald a eu 15 points, le vainqueur est toto
+partie 80 : toto a eu 13 points, titi a eu 16 points, donald a eu 15 points, le vainqueur est titi
+partie 81 : toto a eu 16 points, titi a eu 15 points, donald a eu 5 points, le vainqueur est toto
+partie 82 : toto a eu 13 points, titi a eu 15 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 83 : toto a eu 14 points, titi a eu 15 points, donald a eu 15 points, le vainqueur est titi
+partie 84 : toto a eu 9 points, titi a eu 14 points, donald a eu 45 points, le vainqueur est l'arbitre s'appelle donald
+partie 85 : toto a eu 12 points, titi a eu 16 points, donald a eu 20 points, le vainqueur est l'arbitre s'appelle donald
+partie 86 : toto a eu 15 points, titi a eu 15 points, donald a eu 10 points, le vainqueur est l'arbitre s'appelle donald
+partie 87 : toto a eu 14 points, titi a eu 13 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 88 : toto a eu 13 points, titi a eu 11 points, donald a eu 40 points, le vainqueur est l'arbitre s'appelle donald
+partie 89 : toto a eu 11 points, titi a eu 12 points, donald a eu 45 points, le vainqueur est l'arbitre s'appelle donald
+partie 90 : toto a eu 13 points, titi a eu 13 points, donald a eu 30 points, le vainqueur est l'arbitre s'appelle donald
+partie 91 : toto a eu 13 points, titi a eu 12 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 92 : toto a eu 14 points, titi a eu 16 points, donald a eu 10 points, le vainqueur est titi
+partie 93 : toto a eu 16 points, titi a eu 15 points, donald a eu 5 points, le vainqueur est toto
+partie 94 : toto a eu 12 points, titi a eu 15 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 95 : toto a eu 16 points, titi a eu 15 points, donald a eu 5 points, le vainqueur est toto
+partie 96 : toto a eu 14 points, titi a eu 17 points, donald a eu 5 points, le vainqueur est titi
+partie 97 : toto a eu 14 points, titi a eu 11 points, donald a eu 35 points, le vainqueur est l'arbitre s'appelle donald
+partie 98 : toto a eu 11 points, titi a eu 10 points, donald a eu 55 points, le vainqueur est l'arbitre s'appelle donald
+partie 99 : toto a eu 13 points, titi a eu 14 points, donald a eu 25 points, le vainqueur est l'arbitre s'appelle donald
+partie 100 : toto a eu 15 points, titi a eu 14 points, donald a eu 15 points, le vainqueur est toto
+
+toto a gagné 18 parties
+titi a gagné 15 parties
+donald a arbitré 67 parties
