@@ -5,7 +5,7 @@ class JeuDeCartes:
     valeurs = ('7', '8', '9', '10', 'V', 'D', 'R', 'AS')
 
     def __init__(self):
-        self.cartes = [Carte(valeur, couleur) for couleur in self.couleurs for valeur in self.valeurs]
+        self.cartes = [Carte.Carte(valeur, couleur) for couleur in self.couleurs for valeur in self.valeurs]
         
     def shuffling(self):
         for _ in range(1000):
@@ -25,7 +25,7 @@ class JeuDeCartes:
 J = JeuDeCartes()
 print(J)
 
-c = Carte('V', 'coeur')
+c = Carte.Carte('V', 'coeur')
 J.enleve_carte(c)
 print(J)
 
