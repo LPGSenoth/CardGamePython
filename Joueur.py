@@ -1,5 +1,5 @@
 from JeuDeCarte import JeuDeCartes
-import Jeu
+
 
 
 class Personne :
