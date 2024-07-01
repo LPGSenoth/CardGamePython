@@ -4,4 +4,4 @@ class Joueur :
         self.points = points
         self.nombre_parties_gagnees = nombre_parties_gagnees
 
-        
+    
