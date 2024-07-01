@@ -6,11 +6,14 @@ class JeuDeCartes:
 
     def __init__(self):
         self.cartes = [Carte.Carte(valeur, couleur) for couleur in self.couleurs for valeur in self.valeurs]
+        #print (len(self.cartes))
         
     def shuffling(self):
+        #print (len(self.cartes))
         for _ in range(1000):
-            i = random.randint(0, 31)
-            j = random.randint(0, 31)
+            i = random.randint(0, len(self.cartes)-1)
+            j = random.randint(0, len(self.cartes)-1)
+            #print(f"Indices échangés: {i}, {j}")
             self.cartes[i], self.cartes[j] = self.cartes[j], self.cartes[i]
 
     def enleve_carte(self, carte):
@@ -22,11 +25,12 @@ class JeuDeCartes:
 
             
 
-J = JeuDeCartes()
-print(J)
+#J = JeuDeCartes()
+#print(J)
 
-c = Carte.Carte('V', 'coeur')
-J.enleve_carte(c)
-print(J)
+#c = Carte.Carte('V', 'coeur')
+#J.enleve_carte(c)
+#print(J)
 
-J.shuffling()
+#J.shuffling()
+#print(J)
